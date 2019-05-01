@@ -1,8 +1,8 @@
-Budget Mobile App
+Budget Desktop App
 
 Description: Mobile App to help and monitor spending habits.
 
 Key Features:
-  Front End: Java, Android SDK
-  Back End: MongoDB, Android SDK 
-  Workspace: Android Studio
+  Front End: C#
+  Back End: SQL 
+  Workspace: Microsoft Visual Studio 
